@@ -1,4 +1,4 @@
-# Say Hello
+# Say Hello - Default Arguments Lab
 
 ## Objectives
 
